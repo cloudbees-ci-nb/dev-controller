@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-nb
+- admin-user: kodalo-admin
+- manager-user: kodalo
